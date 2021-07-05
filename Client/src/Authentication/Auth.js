@@ -4,10 +4,12 @@ import LockRoundedIcon from '@material-ui/icons/LockRounded';
 import {GoogleLogin} from 'react-google-login'
 import { useDispatch } from 'react-redux';
 import { useHistory } from 'react-router';
+import dotenv from 'dotenv'
 import Icon from './icon';
 import Setfield from './setfield.js'
 import useStyles from './styles.js'
-import {signin,signup} from '../actions/auth.js' 
+import {signin,signup} from '../actions/auth.js'
+dotenv.config() 
 const Auth = () => {
     const classes=useStyles();
     const dispatch=useDispatch();
@@ -75,7 +77,7 @@ const Auth = () => {
             { issignup ? 'Sign Up' : 'Sign In' }
           </Button>
           <GoogleLogin
-            clientId="808530939427-9q3u6u9ugg2vq3rbtklelr368os5u7bq.apps.googleusercontent.com"
+            clientId={process.env.REACT_APP_CLIENT_ID}
             render={(renderProps) => (
               <Button className={classes.googleButton} color="primary" fullWidth onClick={renderProps.onClick} disabled={renderProps.disabled} startIcon={<Icon />} variant="contained">
              Sign In With Google  
