@@ -11,7 +11,7 @@ recipes along with images of the dish.
 -For users that have not logged in, they can only view the recipes.
 Tech stack used : MERN
 
-
+DEPLOYED APP LINK:https://souschefcookbook.netlify.app/
 
 This is the Home Page with first page of the the recipes, for users who haven't logged in or signed up.
 
@@ -56,6 +56,7 @@ Users who post the recipe can edit and delete the post.
 Users can navigate between pages using the pagination system provided below the form.
 
 ![image](https://user-images.githubusercontent.com/79828073/124431820-861bde80-dd8e-11eb-8012-fa4c1132a697.png)
+
 
 Thanking for checking this out:)
 
