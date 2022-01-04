@@ -10,7 +10,8 @@ recipes along with images of the dish.
 -These recipes can also be searched by tags.
 -For users that have not logged in, they can only view the recipes.
 Tech stack used : MERN
-
+TEAM: SOUMYADEEP DUTTA AND ADRIJA CHATTOPADHYAY
+DEPLOYED LINK: https://souschefrecipes.netlify.app/posts
 DEPLOYED APP LINK:https://souschefcookbook.netlify.app/
 
 This is the Home Page with first page of the the recipes, for users who haven't logged in or signed up.
@@ -56,6 +57,34 @@ Users who post the recipe can edit and delete the post.
 Users can navigate between pages using the pagination system provided below the form.
 
 ![image](https://user-images.githubusercontent.com/79828073/124431820-861bde80-dd8e-11eb-8012-fa4c1132a697.png)
+
+
+CONTRIBUTIONS:
+*Both of us have complete knowledge about the entire application that we made*
+
+*Both of us worked on both client and server side of the application*
+
+*The Design and the UI components have jointly been decided*
+
+*As we live in the same city we collaborated together*
+
+*The app functionalities were divided among us*
+
+Adrija Chattopadhyay  (1905588)                                          Soumyadeep Dutta      (1905640)
+------------------------------                                           --------------------------------
+1. Google OAuth authentication , Manual Signin Client Side              1. Manual user authentication using JWT (Server side)
+
+2. Creating a post,Deletion of a post                                   2. Updating a post , modifying likes
+
+3. Pagination of the application                                        3. Opening the post details page
+
+4. Recommendation of similar posts                                      4. Adding comments to the post details
+
+5. Searching the posts by tags                                          5. Searching the posts by their title
+
+
+
+*Even though the functionalities were divided both of us are well versed about each others work*
 
 
 Thanking for checking this out:)
