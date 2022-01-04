@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=T0c3XkveOfg&ab_channel=soumyadeepdutta
 
 TEAM: SOUMYADEEP DUTTA AND ADRIJA CHATTOPADHYAY
 
-DEPLOYED APP LINK:https://souschefcookbook.netlify.app/
+DEPLOYED APP LINK:https://souschefrecipes.netlify.app/posts
 
 This is the Home Page with first page of the the recipes, for users who haven't logged in or signed up.
 
