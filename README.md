@@ -12,7 +12,7 @@ recipes along with images of the dish.
 Tech stack used : MERN
 TEAM: SOUMYADEEP DUTTA AND ADRIJA CHATTOPADHYAY
 DEPLOYED LINK: https://souschefrecipes.netlify.app/posts
-DEPLOYED APP LINK:https://souschefcookbook.netlify.app/
+         DEPLOYED APP LINK:https://souschefcookbook.netlify.app/
 
 This is the Home Page with first page of the the recipes, for users who haven't logged in or signed up.
 
