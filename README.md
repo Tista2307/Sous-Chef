@@ -11,6 +11,7 @@ recipes along with images of the dish.
 -For users that have not logged in, they can only view the recipes.
 Tech stack used : MERN
 TEAM: SOUMYADEEP DUTTA AND ADRIJA CHATTOPADHYAY
+
 DEPLOYED LINK: https://souschefrecipes.netlify.app/posts
 
 DEPLOYED APP LINK:https://souschefcookbook.netlify.app/
